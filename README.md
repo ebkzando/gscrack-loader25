@@ -11,3 +11,6 @@ auto open csgo
 
 ## Src?
 No loader source right now
+
+## Loader UI
+![Loader Screenshot](image.png)
