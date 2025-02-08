@@ -12,5 +12,8 @@ auto open csgo
 ## Src?
 No loader source right now
 
+## Why admin to run?
+the loader needs admin to run because the injecting method
+
 ## Loader UI
 ![Loader Screenshot](image.png)
