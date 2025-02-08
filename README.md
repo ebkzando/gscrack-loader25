@@ -15,5 +15,8 @@ No loader source right now
 ## Why admin to run?
 the loader needs admin to run because the injecting method
 
+## False positives
+from it being a cheat loader and being packed with Themida
+
 ## Loader UI
 ![Loader Screenshot](image.png)
