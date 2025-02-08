@@ -18,5 +18,8 @@ the loader needs admin to run because the injecting method
 ## False positives
 from it being a cheat loader and being packed with Themida
 
+## Why i made this
+i get bored a lot and my homie told me about skeet crack and how most the loaders for it are rats so i wanted to help people use skeet crack safe
+
 ## Loader UI
 ![Loader Screenshot](image.png)
