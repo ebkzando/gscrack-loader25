@@ -21,5 +21,8 @@ from it being a cheat loader and being packed with Themida
 ## Why i made this
 i get bored a lot and my homie told me about skeet crack and how most the loaders for it are rats so i wanted to help people use skeet crack safe
 
+## Injecting Tut
+https://youtu.be/iWt8_UX3-p8
+
 ## Loader UI
 ![Loader Screenshot](image.png)
