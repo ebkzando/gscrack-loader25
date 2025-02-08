@@ -24,5 +24,8 @@ i get bored a lot and my homie told me about skeet crack and how most the loader
 ## Injecting Tut
 https://youtu.be/iWt8_UX3-p8
 
+## Dont see gscloader.zip
+if you dont see the file then a update is about to be done
+
 ## Loader UI
 ![Loader Screenshot](image.png)
